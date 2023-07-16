@@ -1,0 +1,3 @@
+
+run:
+	julia Main.jl

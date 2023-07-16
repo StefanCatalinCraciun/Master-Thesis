@@ -1,0 +1,3 @@
+
+run:
+	python Main.py
